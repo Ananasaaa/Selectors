@@ -1,0 +1,42 @@
+* {
+    color: red;
+}
+h1 {
+    color: salmon;
+    font-size: 40px;
+}
+
+p {
+    color: greenyellow;
+}
+
+input {
+    border-color:blue ;
+}
+
+input[name="text2"] {
+    border-color: red;
+}
+
+[name="text3"] {
+    border-color: black;
+}
+
+.text3 {
+    border-color: blueviolet;
+}
+
+#t3 {
+    border-color: darkgreen;
+}
+.p2 {
+    color: coral;
+}
+button.primary {
+    border-color:black;
+    background-color: darkgray;
+    padding: 20px;
+}
+footer {
+    color: black;
+}
